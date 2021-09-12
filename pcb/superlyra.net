@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\domanic\OneDrive\Documents\per\piper\superlyra.sch)
-    (date "12/09/2021 13:39:14")
+    (date "12/09/2021 14:08:31")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1382,7 +1382,7 @@
       (tstamp 613C0548))
     (comp (ref Y1)
       (value 16mhz)
-      (footprint Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering)
+      (footprint Crystal:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering)
       (datasheet ~)
       (libsource (lib Device) (part Resonator) (description "Three pin ceramic resonator"))
       (sheetpath (names /) (tstamps /))

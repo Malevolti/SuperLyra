@@ -2997,7 +2997,7 @@ U 1 1 613BC179
 P 4650 7050
 F 0 "Y1" V 4604 7160 50  0000 L CNN
 F 1 "16mhz" V 4695 7160 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" H 4625 7050 50  0001 C CNN
+F 2 "Crystal:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering" H 4625 7050 50  0001 C CNN
 F 3 "~" H 4625 7050 50  0001 C CNN
 	1    4650 7050
 	1    0    0    -1  
