@@ -1,2 +1,2 @@
-jlc-kicad-tools -n syperlyra . -o .\_out\ --include-all-component-groups
+jlc-kicad-tools -n superlyra . -o .\_out\ --include-all-component-groups
 pause
