@@ -49,7 +49,16 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|226083479|82440021|bf6c3510-2667-4c02-9f63-a213e97c496d|e59fe316-13c2-4c3e-a3cc-0776f07db6e8",
+        "clearance|226083479|82818961|caed4aa8-ac60-40eb-a879-ad323da86934|bf6c3510-2667-4c02-9f63-a213e97c496d",
+        "clearance|226238000|85595000|2e3e9e8e-2aa3-4572-94a9-6c9b847d9db0|925ff719-2f40-4509-9d00-26348a7735a8",
+        "clearance|229438000|86795000|6b772a79-607d-438d-ba62-f46ba0a5fe08|336a7182-5ef5-4279-aaa1-17e5eab61539",
+        "clearance|229559979|82440021|535c97df-0c04-4310-8695-eaad3250f593|caed4aa8-ac60-40eb-a879-ad323da86934",
+        "clearance|236780000|89420000|0cbca5ab-1705-49b4-af74-77895c909ee3|6362c72c-6bea-4677-a7c3-3c8d6124695e",
+        "clearance|236780000|89420000|11c5967c-ea88-4a37-9a86-fcbf629a6246|6362c72c-6bea-4677-a7c3-3c8d6124695e",
+        "clearance|237490264|88709736|0d5ae1f3-bb88-4a85-b84f-c3a41f46c9ec|2b132d8e-b9eb-4f8f-808e-4a585bc6ab8e"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
