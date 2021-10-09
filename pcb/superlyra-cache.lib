@@ -112,7 +112,6 @@ F0 "D" -50 80 50 H V L CNN
 F1 "Device_D_Small_ALT" -150 -80 50 H V L CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
-F4 " C2099 " 0 0 50 H I C CNN "LCSC"
 $FPLIST
  TO-???*
  *_Diode_*

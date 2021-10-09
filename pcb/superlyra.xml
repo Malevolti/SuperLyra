@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:\Users\Envy\Documents\GitHub\SuperLyra\pcb\superlyra.sch</source>
-    <date>15/09/2021 15:44:27</date>
+    <source>C:\Users\domanic\OneDrive\Documents\GitHub\SuperLyra\pcb\superlyra.sch</source>
+    <date>18/09/2021 10:48:56</date>
     <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -41,6 +41,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -52,6 +54,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -63,6 +67,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -74,6 +80,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -85,6 +93,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -96,6 +106,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -107,6 +119,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -118,6 +132,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -129,6 +145,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -140,6 +158,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -151,6 +171,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -162,6 +184,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -173,6 +197,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -184,6 +210,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -195,6 +223,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -206,6 +236,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -217,6 +249,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -228,6 +262,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -239,6 +275,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -250,6 +288,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -261,6 +301,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -272,6 +314,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -283,6 +327,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -294,6 +340,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -305,6 +353,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -316,6 +366,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -327,6 +379,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -338,6 +392,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -349,6 +405,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -360,6 +418,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -371,6 +431,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -382,6 +444,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -393,6 +457,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -404,6 +470,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -415,6 +483,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -426,6 +496,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -437,6 +509,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -448,6 +522,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -459,6 +535,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -470,6 +548,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -481,6 +561,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -492,6 +574,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -503,6 +587,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -514,6 +600,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -525,6 +613,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -536,6 +626,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -547,6 +639,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -558,6 +652,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -569,6 +665,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -580,6 +678,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -591,6 +691,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -602,6 +704,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -613,6 +717,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -624,6 +730,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -635,6 +743,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -646,6 +756,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -657,6 +769,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -668,6 +782,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -679,6 +795,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -690,6 +808,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -701,6 +821,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -712,6 +834,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -723,6 +847,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -734,6 +860,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -745,6 +873,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -756,6 +886,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -767,6 +899,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -778,6 +912,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -789,6 +925,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -800,6 +938,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -811,6 +951,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -822,6 +964,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -833,6 +977,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -844,6 +990,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -855,6 +1003,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -866,6 +1016,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -877,6 +1029,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -888,6 +1042,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -899,6 +1055,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -910,6 +1068,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -921,6 +1081,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -932,6 +1094,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -943,6 +1107,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -954,6 +1120,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -965,6 +1133,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1688,6 +1858,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C60489</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">RC0402JR-0710KL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1699,6 +1871,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C60489</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">RC0402JR-0710KL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1710,6 +1884,8 @@
       <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
       <fields>
         <field name="LCSC">C558418</field>
+        <field name="Manufacturer">TECH PUBLIC</field>
+        <field name="Mfg pt #">SRV05-4</field>
       </fields>
       <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1721,6 +1897,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C106204</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">CC0402KRX5R7BB104</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1732,6 +1910,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C237279</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Mfg pt #">GRM155C80J106ME11D</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1743,6 +1923,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C106204</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">CC0402KRX5R7BB104</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1754,6 +1936,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C106204</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">CC0402KRX5R7BB104</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1765,6 +1949,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C93929</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">RC0402JR-0722RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1776,6 +1962,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C106253</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">CC0402KRX5R5BB105</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1787,6 +1975,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C93929</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">RC0402JR-0722RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1798,6 +1988,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C25905</field>
+        <field name="Manufacturer">UNI-ROYAL</field>
+        <field name="Mfg pt #">0402WGF5101TCE</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1809,6 +2001,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C25905</field>
+        <field name="Manufacturer">UNI-ROYAL</field>
+        <field name="Mfg pt #">0402WGF5101TCE</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1820,6 +2014,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C914085</field>
+        <field name="Manufacturer">BHFUSE</field>
+        <field name="Mfg pt #">BSMD0402L-020</field>
       </fields>
       <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1831,6 +2027,8 @@
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
       <fields>
         <field name="LCSC">C165948</field>
+        <field name="Manufacturer">Korean Hroparts Elec</field>
+        <field name="Mfg pt #">TYPE-C-31-M-12</field>
       </fields>
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1842,6 +2040,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C341521</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Mfg pt #">CSTNE16M0V530000R0</field>
       </fields>
       <libsource lib="Device" part="Resonator" description="Three pin ceramic resonator"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1853,6 +2053,8 @@
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
       <fields>
         <field name="LCSC">C112161</field>
+        <field name="Manufacturer">Microchip Tech</field>
+        <field name="Mfg pt #">ATMEGA32U4-MU</field>
       </fields>
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-MU" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1864,6 +2066,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C318884</field>
+        <field name="Manufacturer">XKB Connectivity</field>
+        <field name="Mfg pt #">TS-1187A-B-A-B</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1875,6 +2079,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1886,6 +2092,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1897,6 +2105,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1908,6 +2118,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1919,6 +2131,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C2099</field>
+        <field name="Manufacturer">Changjiang Electronics Tech</field>
+        <field name="Mfg pt #">1N4148W</field>
       </fields>
       <libsource lib="Device" part="D_Small_ALT" description="Diode, small symbol, filled shape"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2130,6 +2344,8 @@
       <datasheet>~</datasheet>
       <fields>
         <field name="LCSC">C106204</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Mfg pt #">CC0402KRX5R7BB104</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2378,22 +2594,22 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+      <uri>E:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
     </library>
     <library logical="Device">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+      <uri>E:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
     <library logical="MCU_Microchip_ATmega">
-      <uri>C:\Program Files\KiCad\share\kicad\library/MCU_Microchip_ATmega.lib</uri>
+      <uri>E:\Program Files\KiCad\share\kicad\library/MCU_Microchip_ATmega.lib</uri>
     </library>
     <library logical="Mechanical">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+      <uri>E:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
     </library>
     <library logical="Power_Protection">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Power_Protection.lib</uri>
+      <uri>E:\Program Files\KiCad\share\kicad\library/Power_Protection.lib</uri>
     </library>
     <library logical="Switch">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
+      <uri>E:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
     </library>
   </libraries>
   <nets>

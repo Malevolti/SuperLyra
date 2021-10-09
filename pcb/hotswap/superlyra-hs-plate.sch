@@ -1,0 +1,1184 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "SuperLyra"
+Date "2021-09-12"
+Rev "0.5"
+Comp "Black Cat Plasticworks - (Malevolti)"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 10600 7650 0    50   ~ 0
+0\n
+$Comp
+L Switch:SW_Push SW1
+U 1 1 61417B3D
+P 1400 1500
+F 0 "SW1" H 1400 1693 50  0000 C CNN
+F 1 "SW_Push" H 1400 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1400 1700 50  0001 C CNN
+F 3 "~" H 1400 1700 50  0001 C CNN
+	1    1400 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 6141B881
+P 1950 1500
+F 0 "SW2" H 1950 1693 50  0000 C CNN
+F 1 "SW_Push" H 1950 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1950 1700 50  0001 C CNN
+F 3 "~" H 1950 1700 50  0001 C CNN
+	1    1950 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW90
+U 1 1 614CF9DF
+P 10750 3500
+F 0 "SW90" H 10750 3693 50  0000 C CNN
+F 1 "SW_Push" H 10750 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10750 3700 50  0001 C CNN
+F 3 "~" H 10750 3700 50  0001 C CNN
+	1    10750 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW89
+U 1 1 614CF9D9
+P 10200 3500
+F 0 "SW89" H 10200 3693 50  0000 C CNN
+F 1 "SW_Push" H 10200 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10200 3700 50  0001 C CNN
+F 3 "~" H 10200 3700 50  0001 C CNN
+	1    10200 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW88
+U 1 1 614CF9D3
+P 9650 3500
+F 0 "SW88" H 9650 3693 50  0000 C CNN
+F 1 "SW_Push" H 9650 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9650 3700 50  0001 C CNN
+F 3 "~" H 9650 3700 50  0001 C CNN
+	1    9650 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW87
+U 1 1 614CF9CD
+P 9100 3500
+F 0 "SW87" H 9100 3693 50  0000 C CNN
+F 1 "SW_Push" H 9100 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9100 3700 50  0001 C CNN
+F 3 "~" H 9100 3700 50  0001 C CNN
+	1    9100 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW86
+U 1 1 614CF9C7
+P 8550 3500
+F 0 "SW86" H 8550 3693 50  0000 C CNN
+F 1 "SW_Push" H 8550 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8550 3700 50  0001 C CNN
+F 3 "~" H 8550 3700 50  0001 C CNN
+	1    8550 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW85
+U 1 1 614CF9C1
+P 8000 3500
+F 0 "SW85" H 8000 3693 50  0000 C CNN
+F 1 "SW_Push" H 8000 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8000 3700 50  0001 C CNN
+F 3 "~" H 8000 3700 50  0001 C CNN
+	1    8000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW84
+U 1 1 614CF9BB
+P 7450 3500
+F 0 "SW84" H 7450 3693 50  0000 C CNN
+F 1 "SW_Push" H 7450 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_2uStabCutoutuni" H 7450 3700 50  0001 C CNN
+F 3 "~" H 7450 3700 50  0001 C CNN
+	1    7450 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW83
+U 1 1 614CF9B5
+P 6900 3500
+F 0 "SW83" H 6900 3693 50  0000 C CNN
+F 1 "SW_Push" H 6900 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6900 3700 50  0001 C CNN
+F 3 "~" H 6900 3700 50  0001 C CNN
+	1    6900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW82
+U 1 1 614CF9AF
+P 6350 3500
+F 0 "SW82" H 6350 3693 50  0000 C CNN
+F 1 "SW_Push" H 6350 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6350 3700 50  0001 C CNN
+F 3 "~" H 6350 3700 50  0001 C CNN
+	1    6350 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW81
+U 1 1 614CF9A9
+P 5800 3500
+F 0 "SW81" H 5800 3693 50  0000 C CNN
+F 1 "SW_Push" H 5800 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5800 3700 50  0001 C CNN
+F 3 "~" H 5800 3700 50  0001 C CNN
+	1    5800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW80
+U 1 1 614CF9A3
+P 5250 3500
+F 0 "SW80" H 5250 3693 50  0000 C CNN
+F 1 "SW_Push" H 5250 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5250 3700 50  0001 C CNN
+F 3 "~" H 5250 3700 50  0001 C CNN
+	1    5250 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW79
+U 1 1 614CF99D
+P 4700 3500
+F 0 "SW79" H 4700 3693 50  0000 C CNN
+F 1 "SW_Push" H 4700 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_2uStabCutoutuni" H 4700 3700 50  0001 C CNN
+F 3 "~" H 4700 3700 50  0001 C CNN
+	1    4700 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW77
+U 1 1 614CF991
+P 3600 3500
+F 0 "SW77" H 3600 3693 50  0000 C CNN
+F 1 "SW_Push" H 3600 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3600 3700 50  0001 C CNN
+F 3 "~" H 3600 3700 50  0001 C CNN
+	1    3600 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW76
+U 1 1 614CF98B
+P 3050 3500
+F 0 "SW76" H 3050 3693 50  0000 C CNN
+F 1 "SW_Push" H 3050 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3050 3700 50  0001 C CNN
+F 3 "~" H 3050 3700 50  0001 C CNN
+	1    3050 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW75
+U 1 1 614CF985
+P 2500 3500
+F 0 "SW75" H 2500 3693 50  0000 C CNN
+F 1 "SW_Push" H 2500 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 2500 3700 50  0001 C CNN
+F 3 "~" H 2500 3700 50  0001 C CNN
+	1    2500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW74
+U 1 1 614CF97F
+P 1950 3500
+F 0 "SW74" H 1950 3693 50  0000 C CNN
+F 1 "SW_Push" H 1950 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1950 3700 50  0001 C CNN
+F 3 "~" H 1950 3700 50  0001 C CNN
+	1    1950 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW73
+U 1 1 614CF979
+P 1400 3500
+F 0 "SW73" H 1400 3693 50  0000 C CNN
+F 1 "SW_Push" H 1400 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1400 3700 50  0001 C CNN
+F 3 "~" H 1400 3700 50  0001 C CNN
+	1    1400 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW72
+U 1 1 614CAAAE
+P 10750 3000
+F 0 "SW72" H 10750 3193 50  0000 C CNN
+F 1 "SW_Push" H 10750 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10750 3200 50  0001 C CNN
+F 3 "~" H 10750 3200 50  0001 C CNN
+	1    10750 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW71
+U 1 1 614CAAA8
+P 10200 3000
+F 0 "SW71" H 10200 3193 50  0000 C CNN
+F 1 "SW_Push" H 10200 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10200 3200 50  0001 C CNN
+F 3 "~" H 10200 3200 50  0001 C CNN
+	1    10200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW70
+U 1 1 614CAAA2
+P 9650 3000
+F 0 "SW70" H 9650 3193 50  0000 C CNN
+F 1 "SW_Push" H 9650 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9650 3200 50  0001 C CNN
+F 3 "~" H 9650 3200 50  0001 C CNN
+	1    9650 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW69
+U 1 1 614CAA9C
+P 9100 3000
+F 0 "SW69" H 9100 3193 50  0000 C CNN
+F 1 "SW_Push" H 9100 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9100 3200 50  0001 C CNN
+F 3 "~" H 9100 3200 50  0001 C CNN
+	1    9100 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW68
+U 1 1 614CAA96
+P 8550 3000
+F 0 "SW68" H 8550 3193 50  0000 C CNN
+F 1 "SW_Push" H 8550 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8550 3200 50  0001 C CNN
+F 3 "~" H 8550 3200 50  0001 C CNN
+	1    8550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW67
+U 1 1 614CAA90
+P 8000 3000
+F 0 "SW67" H 8000 3193 50  0000 C CNN
+F 1 "SW_Push" H 8000 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8000 3200 50  0001 C CNN
+F 3 "~" H 8000 3200 50  0001 C CNN
+	1    8000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW66
+U 1 1 614CAA8A
+P 7450 3000
+F 0 "SW66" H 7450 3193 50  0000 C CNN
+F 1 "SW_Push" H 7450 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 7450 3200 50  0001 C CNN
+F 3 "~" H 7450 3200 50  0001 C CNN
+	1    7450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW65
+U 1 1 614CAA84
+P 6900 3000
+F 0 "SW65" H 6900 3193 50  0000 C CNN
+F 1 "SW_Push" H 6900 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6900 3200 50  0001 C CNN
+F 3 "~" H 6900 3200 50  0001 C CNN
+	1    6900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW64
+U 1 1 614CAA7E
+P 6350 3000
+F 0 "SW64" H 6350 3193 50  0000 C CNN
+F 1 "SW_Push" H 6350 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6350 3200 50  0001 C CNN
+F 3 "~" H 6350 3200 50  0001 C CNN
+	1    6350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW63
+U 1 1 614CAA78
+P 5800 3000
+F 0 "SW63" H 5800 3193 50  0000 C CNN
+F 1 "SW_Push" H 5800 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5800 3200 50  0001 C CNN
+F 3 "~" H 5800 3200 50  0001 C CNN
+	1    5800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW62
+U 1 1 614CAA72
+P 5250 3000
+F 0 "SW62" H 5250 3193 50  0000 C CNN
+F 1 "SW_Push" H 5250 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5250 3200 50  0001 C CNN
+F 3 "~" H 5250 3200 50  0001 C CNN
+	1    5250 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW61
+U 1 1 614CAA6C
+P 4700 3000
+F 0 "SW61" H 4700 3193 50  0000 C CNN
+F 1 "SW_Push" H 4700 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4700 3200 50  0001 C CNN
+F 3 "~" H 4700 3200 50  0001 C CNN
+	1    4700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW60
+U 1 1 614CAA66
+P 4150 3000
+F 0 "SW60" H 4150 3193 50  0000 C CNN
+F 1 "SW_Push" H 4150 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4150 3200 50  0001 C CNN
+F 3 "~" H 4150 3200 50  0001 C CNN
+	1    4150 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW59
+U 1 1 614CAA60
+P 3600 3000
+F 0 "SW59" H 3600 3193 50  0000 C CNN
+F 1 "SW_Push" H 3600 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3600 3200 50  0001 C CNN
+F 3 "~" H 3600 3200 50  0001 C CNN
+	1    3600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW58
+U 1 1 614CAA5A
+P 3050 3000
+F 0 "SW58" H 3050 3193 50  0000 C CNN
+F 1 "SW_Push" H 3050 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3050 3200 50  0001 C CNN
+F 3 "~" H 3050 3200 50  0001 C CNN
+	1    3050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW57
+U 1 1 614CAA54
+P 2500 3000
+F 0 "SW57" H 2500 3193 50  0000 C CNN
+F 1 "SW_Push" H 2500 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 2500 3200 50  0001 C CNN
+F 3 "~" H 2500 3200 50  0001 C CNN
+	1    2500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW56
+U 1 1 614CAA4E
+P 1950 3000
+F 0 "SW56" H 1950 3193 50  0000 C CNN
+F 1 "SW_Push" H 1950 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1950 3200 50  0001 C CNN
+F 3 "~" H 1950 3200 50  0001 C CNN
+	1    1950 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW55
+U 1 1 614CAA48
+P 1400 3000
+F 0 "SW55" H 1400 3193 50  0000 C CNN
+F 1 "SW_Push" H 1400 3194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1400 3200 50  0001 C CNN
+F 3 "~" H 1400 3200 50  0001 C CNN
+	1    1400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW54
+U 1 1 614C4BA7
+P 10750 2500
+F 0 "SW54" H 10750 2693 50  0000 C CNN
+F 1 "SW_Push" H 10750 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10750 2700 50  0001 C CNN
+F 3 "~" H 10750 2700 50  0001 C CNN
+	1    10750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW53
+U 1 1 614C4BA1
+P 10200 2500
+F 0 "SW53" H 10200 2693 50  0000 C CNN
+F 1 "SW_Push" H 10200 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10200 2700 50  0001 C CNN
+F 3 "~" H 10200 2700 50  0001 C CNN
+	1    10200 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW52
+U 1 1 614C4B9B
+P 9650 2500
+F 0 "SW52" H 9650 2693 50  0000 C CNN
+F 1 "SW_Push" H 9650 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9650 2700 50  0001 C CNN
+F 3 "~" H 9650 2700 50  0001 C CNN
+	1    9650 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW51
+U 1 1 614C4B95
+P 9100 2500
+F 0 "SW51" H 9100 2693 50  0000 C CNN
+F 1 "SW_Push" H 9100 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9100 2700 50  0001 C CNN
+F 3 "~" H 9100 2700 50  0001 C CNN
+	1    9100 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW50
+U 1 1 614C4B8F
+P 8550 2500
+F 0 "SW50" H 8550 2693 50  0000 C CNN
+F 1 "SW_Push" H 8550 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8550 2700 50  0001 C CNN
+F 3 "~" H 8550 2700 50  0001 C CNN
+	1    8550 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW49
+U 1 1 614C4B89
+P 8000 2500
+F 0 "SW49" H 8000 2693 50  0000 C CNN
+F 1 "SW_Push" H 8000 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8000 2700 50  0001 C CNN
+F 3 "~" H 8000 2700 50  0001 C CNN
+	1    8000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW48
+U 1 1 614C4B83
+P 7450 2500
+F 0 "SW48" H 7450 2693 50  0000 C CNN
+F 1 "SW_Push" H 7450 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 7450 2700 50  0001 C CNN
+F 3 "~" H 7450 2700 50  0001 C CNN
+	1    7450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW47
+U 1 1 614C4B7D
+P 6900 2500
+F 0 "SW47" H 6900 2693 50  0000 C CNN
+F 1 "SW_Push" H 6900 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6900 2700 50  0001 C CNN
+F 3 "~" H 6900 2700 50  0001 C CNN
+	1    6900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW46
+U 1 1 614C4B77
+P 6350 2500
+F 0 "SW46" H 6350 2693 50  0000 C CNN
+F 1 "SW_Push" H 6350 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6350 2700 50  0001 C CNN
+F 3 "~" H 6350 2700 50  0001 C CNN
+	1    6350 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW45
+U 1 1 614C4B71
+P 5800 2500
+F 0 "SW45" H 5800 2693 50  0000 C CNN
+F 1 "SW_Push" H 5800 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5800 2700 50  0001 C CNN
+F 3 "~" H 5800 2700 50  0001 C CNN
+	1    5800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW44
+U 1 1 614C4B6B
+P 5250 2500
+F 0 "SW44" H 5250 2693 50  0000 C CNN
+F 1 "SW_Push" H 5250 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5250 2700 50  0001 C CNN
+F 3 "~" H 5250 2700 50  0001 C CNN
+	1    5250 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW43
+U 1 1 614C4B65
+P 4700 2500
+F 0 "SW43" H 4700 2693 50  0000 C CNN
+F 1 "SW_Push" H 4700 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4700 2700 50  0001 C CNN
+F 3 "~" H 4700 2700 50  0001 C CNN
+	1    4700 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW42
+U 1 1 614C4B5F
+P 4150 2500
+F 0 "SW42" H 4150 2693 50  0000 C CNN
+F 1 "SW_Push" H 4150 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4150 2700 50  0001 C CNN
+F 3 "~" H 4150 2700 50  0001 C CNN
+	1    4150 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW41
+U 1 1 614C4B59
+P 3600 2500
+F 0 "SW41" H 3600 2693 50  0000 C CNN
+F 1 "SW_Push" H 3600 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3600 2700 50  0001 C CNN
+F 3 "~" H 3600 2700 50  0001 C CNN
+	1    3600 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW40
+U 1 1 614C4B53
+P 3050 2500
+F 0 "SW40" H 3050 2693 50  0000 C CNN
+F 1 "SW_Push" H 3050 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3050 2700 50  0001 C CNN
+F 3 "~" H 3050 2700 50  0001 C CNN
+	1    3050 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW39
+U 1 1 614C4B4D
+P 2500 2500
+F 0 "SW39" H 2500 2693 50  0000 C CNN
+F 1 "SW_Push" H 2500 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 2500 2700 50  0001 C CNN
+F 3 "~" H 2500 2700 50  0001 C CNN
+	1    2500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW38
+U 1 1 614C4B47
+P 1950 2500
+F 0 "SW38" H 1950 2693 50  0000 C CNN
+F 1 "SW_Push" H 1950 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1950 2700 50  0001 C CNN
+F 3 "~" H 1950 2700 50  0001 C CNN
+	1    1950 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW37
+U 1 1 614C4B41
+P 1400 2500
+F 0 "SW37" H 1400 2693 50  0000 C CNN
+F 1 "SW_Push" H 1400 2694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1400 2700 50  0001 C CNN
+F 3 "~" H 1400 2700 50  0001 C CNN
+	1    1400 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW36
+U 1 1 614BBBE1
+P 10750 2000
+F 0 "SW36" H 10750 2193 50  0000 C CNN
+F 1 "SW_Push" H 10750 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10750 2200 50  0001 C CNN
+F 3 "~" H 10750 2200 50  0001 C CNN
+	1    10750 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW35
+U 1 1 614BBBDB
+P 10200 2000
+F 0 "SW35" H 10200 2193 50  0000 C CNN
+F 1 "SW_Push" H 10200 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10200 2200 50  0001 C CNN
+F 3 "~" H 10200 2200 50  0001 C CNN
+	1    10200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW34
+U 1 1 614BBBD5
+P 9650 2000
+F 0 "SW34" H 9650 2193 50  0000 C CNN
+F 1 "SW_Push" H 9650 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9650 2200 50  0001 C CNN
+F 3 "~" H 9650 2200 50  0001 C CNN
+	1    9650 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW33
+U 1 1 614BBBCF
+P 9100 2000
+F 0 "SW33" H 9100 2193 50  0000 C CNN
+F 1 "SW_Push" H 9100 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9100 2200 50  0001 C CNN
+F 3 "~" H 9100 2200 50  0001 C CNN
+	1    9100 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW32
+U 1 1 614BBBC9
+P 8550 2000
+F 0 "SW32" H 8550 2193 50  0000 C CNN
+F 1 "SW_Push" H 8550 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8550 2200 50  0001 C CNN
+F 3 "~" H 8550 2200 50  0001 C CNN
+	1    8550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW31
+U 1 1 614BBBC3
+P 8000 2000
+F 0 "SW31" H 8000 2193 50  0000 C CNN
+F 1 "SW_Push" H 8000 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8000 2200 50  0001 C CNN
+F 3 "~" H 8000 2200 50  0001 C CNN
+	1    8000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW30
+U 1 1 614BBBBD
+P 7450 2000
+F 0 "SW30" H 7450 2193 50  0000 C CNN
+F 1 "SW_Push" H 7450 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 7450 2200 50  0001 C CNN
+F 3 "~" H 7450 2200 50  0001 C CNN
+	1    7450 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW29
+U 1 1 614BBBB7
+P 6900 2000
+F 0 "SW29" H 6900 2193 50  0000 C CNN
+F 1 "SW_Push" H 6900 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6900 2200 50  0001 C CNN
+F 3 "~" H 6900 2200 50  0001 C CNN
+	1    6900 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW28
+U 1 1 614BBBB1
+P 6350 2000
+F 0 "SW28" H 6350 2193 50  0000 C CNN
+F 1 "SW_Push" H 6350 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6350 2200 50  0001 C CNN
+F 3 "~" H 6350 2200 50  0001 C CNN
+	1    6350 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW27
+U 1 1 614BBBAB
+P 5800 2000
+F 0 "SW27" H 5800 2193 50  0000 C CNN
+F 1 "SW_Push" H 5800 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5800 2200 50  0001 C CNN
+F 3 "~" H 5800 2200 50  0001 C CNN
+	1    5800 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW26
+U 1 1 614BBBA5
+P 5250 2000
+F 0 "SW26" H 5250 2193 50  0000 C CNN
+F 1 "SW_Push" H 5250 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5250 2200 50  0001 C CNN
+F 3 "~" H 5250 2200 50  0001 C CNN
+	1    5250 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 614BBB9F
+P 4700 2000
+F 0 "SW25" H 4700 2193 50  0000 C CNN
+F 1 "SW_Push" H 4700 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4700 2200 50  0001 C CNN
+F 3 "~" H 4700 2200 50  0001 C CNN
+	1    4700 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 614BBB99
+P 4150 2000
+F 0 "SW24" H 4150 2193 50  0000 C CNN
+F 1 "SW_Push" H 4150 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4150 2200 50  0001 C CNN
+F 3 "~" H 4150 2200 50  0001 C CNN
+	1    4150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW23
+U 1 1 614BBB93
+P 3600 2000
+F 0 "SW23" H 3600 2193 50  0000 C CNN
+F 1 "SW_Push" H 3600 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3600 2200 50  0001 C CNN
+F 3 "~" H 3600 2200 50  0001 C CNN
+	1    3600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 614BBB8D
+P 3050 2000
+F 0 "SW22" H 3050 2193 50  0000 C CNN
+F 1 "SW_Push" H 3050 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3050 2200 50  0001 C CNN
+F 3 "~" H 3050 2200 50  0001 C CNN
+	1    3050 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 614BBB87
+P 2500 2000
+F 0 "SW21" H 2500 2193 50  0000 C CNN
+F 1 "SW_Push" H 2500 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 2500 2200 50  0001 C CNN
+F 3 "~" H 2500 2200 50  0001 C CNN
+	1    2500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 614BBB81
+P 1950 2000
+F 0 "SW20" H 1950 2193 50  0000 C CNN
+F 1 "SW_Push" H 1950 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1950 2200 50  0001 C CNN
+F 3 "~" H 1950 2200 50  0001 C CNN
+	1    1950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 614BBB7B
+P 1400 2000
+F 0 "SW19" H 1400 2193 50  0000 C CNN
+F 1 "SW_Push" H 1400 2194 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 1400 2200 50  0001 C CNN
+F 3 "~" H 1400 2200 50  0001 C CNN
+	1    1400 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 6149D763
+P 10750 1500
+F 0 "SW18" H 10750 1693 50  0000 C CNN
+F 1 "SW_Push" H 10750 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10750 1700 50  0001 C CNN
+F 3 "~" H 10750 1700 50  0001 C CNN
+	1    10750 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 6149D75D
+P 10200 1500
+F 0 "SW17" H 10200 1693 50  0000 C CNN
+F 1 "SW_Push" H 10200 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 10200 1700 50  0001 C CNN
+F 3 "~" H 10200 1700 50  0001 C CNN
+	1    10200 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 6142AF89
+P 9650 1500
+F 0 "SW16" H 9650 1693 50  0000 C CNN
+F 1 "SW_Push" H 9650 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9650 1700 50  0001 C CNN
+F 3 "~" H 9650 1700 50  0001 C CNN
+	1    9650 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 61429E0F
+P 9100 1500
+F 0 "SW15" H 9100 1693 50  0000 C CNN
+F 1 "SW_Push" H 9100 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 9100 1700 50  0001 C CNN
+F 3 "~" H 9100 1700 50  0001 C CNN
+	1    9100 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 61428E96
+P 8550 1500
+F 0 "SW14" H 8550 1693 50  0000 C CNN
+F 1 "SW_Push" H 8550 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8550 1700 50  0001 C CNN
+F 3 "~" H 8550 1700 50  0001 C CNN
+	1    8550 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 61427BD9
+P 8000 1500
+F 0 "SW13" H 8000 1693 50  0000 C CNN
+F 1 "SW_Push" H 8000 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 8000 1700 50  0001 C CNN
+F 3 "~" H 8000 1700 50  0001 C CNN
+	1    8000 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 61426C29
+P 7450 1500
+F 0 "SW12" H 7450 1693 50  0000 C CNN
+F 1 "SW_Push" H 7450 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 7450 1700 50  0001 C CNN
+F 3 "~" H 7450 1700 50  0001 C CNN
+	1    7450 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 61426083
+P 6900 1500
+F 0 "SW11" H 6900 1693 50  0000 C CNN
+F 1 "SW_Push" H 6900 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6900 1700 50  0001 C CNN
+F 3 "~" H 6900 1700 50  0001 C CNN
+	1    6900 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 61425571
+P 6350 1500
+F 0 "SW10" H 6350 1693 50  0000 C CNN
+F 1 "SW_Push" H 6350 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 6350 1700 50  0001 C CNN
+F 3 "~" H 6350 1700 50  0001 C CNN
+	1    6350 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 61423FE4
+P 5800 1500
+F 0 "SW9" H 5800 1693 50  0000 C CNN
+F 1 "SW_Push" H 5800 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5800 1700 50  0001 C CNN
+F 3 "~" H 5800 1700 50  0001 C CNN
+	1    5800 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 61423219
+P 5250 1500
+F 0 "SW8" H 5250 1693 50  0000 C CNN
+F 1 "SW_Push" H 5250 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 5250 1700 50  0001 C CNN
+F 3 "~" H 5250 1700 50  0001 C CNN
+	1    5250 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 614222D5
+P 4700 1500
+F 0 "SW7" H 4700 1693 50  0000 C CNN
+F 1 "SW_Push" H 4700 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4700 1700 50  0001 C CNN
+F 3 "~" H 4700 1700 50  0001 C CNN
+	1    4700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 614211CD
+P 4150 1500
+F 0 "SW6" H 4150 1693 50  0000 C CNN
+F 1 "SW_Push" H 4150 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4150 1700 50  0001 C CNN
+F 3 "~" H 4150 1700 50  0001 C CNN
+	1    4150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 6141ED5E
+P 3600 1500
+F 0 "SW5" H 3600 1693 50  0000 C CNN
+F 1 "SW_Push" H 3600 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3600 1700 50  0001 C CNN
+F 3 "~" H 3600 1700 50  0001 C CNN
+	1    3600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 6141DBC9
+P 3050 1500
+F 0 "SW4" H 3050 1693 50  0000 C CNN
+F 1 "SW_Push" H 3050 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 3050 1700 50  0001 C CNN
+F 3 "~" H 3050 1700 50  0001 C CNN
+	1    3050 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 6141CECA
+P 2500 1500
+F 0 "SW3" H 2500 1693 50  0000 C CNN
+F 1 "SW_Push" H 2500 1694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 2500 1700 50  0001 C CNN
+F 3 "~" H 2500 1700 50  0001 C CNN
+	1    2500 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 627B2147
+P 7150 5600
+F 0 "H8" H 7250 5646 50  0000 L CNN
+F 1 "MountingHole" H 7250 5555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7150 5600 50  0001 C CNN
+F 3 "~" H 7150 5600 50  0001 C CNN
+	1    7150 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 627CD5E5
+P 7850 5450
+F 0 "H15" H 7950 5496 50  0000 L CNN
+F 1 "MountingHole" H 7950 5405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 5450 50  0001 C CNN
+F 3 "~" H 7850 5450 50  0001 C CNN
+	1    7850 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 627CE87B
+P 7850 5150
+F 0 "H13" H 7950 5196 50  0000 L CNN
+F 1 "MountingHole" H 7950 5105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 5150 50  0001 C CNN
+F 3 "~" H 7850 5150 50  0001 C CNN
+	1    7850 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 627CE885
+P 7850 5000
+F 0 "H12" H 7950 5046 50  0000 L CNN
+F 1 "MountingHole" H 7950 4955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 5000 50  0001 C CNN
+F 3 "~" H 7850 5000 50  0001 C CNN
+	1    7850 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 627CE88F
+P 7850 4850
+F 0 "H11" H 7950 4896 50  0000 L CNN
+F 1 "MountingHole" H 7950 4805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 4850 50  0001 C CNN
+F 3 "~" H 7850 4850 50  0001 C CNN
+	1    7850 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 627CE899
+P 7850 4700
+F 0 "H10" H 7950 4746 50  0000 L CNN
+F 1 "MountingHole" H 7950 4655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 4700 50  0001 C CNN
+F 3 "~" H 7850 4700 50  0001 C CNN
+	1    7850 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 627CE8A3
+P 7850 5600
+F 0 "H16" H 7950 5646 50  0000 L CNN
+F 1 "MountingHole" H 7950 5555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 5600 50  0001 C CNN
+F 3 "~" H 7850 5600 50  0001 C CNN
+	1    7850 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H20
+U 1 1 627E05FA
+P 8550 5000
+F 0 "H20" H 8650 5046 50  0000 L CNN
+F 1 "MountingHole" H 8650 4955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 8550 5000 50  0001 C CNN
+F 3 "~" H 8550 5000 50  0001 C CNN
+	1    8550 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Logo_Open_Hardware_Small #LOGO1
+U 1 1 62864F55
+P 10950 6850
+F 0 "#LOGO1" H 10950 7125 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 10950 6625 50  0001 C CNN
+F 2 "" H 10950 6850 50  0001 C CNN
+F 3 "~" H 10950 6850 50  0001 C CNN
+	1    10950 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H25
+U 1 1 6287FF33
+P 9900 5850
+F 0 "H25" H 10000 5896 50  0000 L CNN
+F 1 "Logo" H 10000 5805 50  0000 L CNN
+F 2 "gfx:SuperLyraLogo" H 9900 5850 50  0001 C CNN
+F 3 "~" H 9900 5850 50  0001 C CNN
+	1    9900 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 6277F8FC
+P 7150 5450
+F 0 "H7" H 7250 5496 50  0000 L CNN
+F 1 "MountingHole" H 7250 5405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7150 5450 50  0001 C CNN
+F 3 "~" H 7150 5450 50  0001 C CNN
+	1    7150 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW78
+U 1 1 614CF997
+P 4150 3500
+F 0 "SW78" H 4150 3693 50  0000 C CNN
+F 1 "SW_Push" H 4150 3694 50  0001 C CNN
+F 2 "Keebio:MX_Switch_Cutout" H 4150 3700 50  0001 C CNN
+F 3 "~" H 4150 3700 50  0001 C CNN
+	1    4150 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 62784E60
+P 7150 5150
+F 0 "H5" H 7250 5196 50  0000 L CNN
+F 1 "MountingHole" H 7250 5105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7150 5150 50  0001 C CNN
+F 3 "~" H 7150 5150 50  0001 C CNN
+	1    7150 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 627CE867
+P 7850 4550
+F 0 "H9" H 7950 4596 50  0000 L CNN
+F 1 "MountingHole" H 7950 4505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7850 4550 50  0001 C CNN
+F 3 "~" H 7850 4550 50  0001 C CNN
+	1    7850 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6278166C
+P 7150 4550
+F 0 "H1" H 7250 4596 50  0000 L CNN
+F 1 "MountingHole" H 7250 4505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 7150 4550 50  0001 C CNN
+F 3 "~" H 7150 4550 50  0001 C CNN
+	1    7150 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 617020E9
+P 10200 4600
+F 0 "#PWR0101" H 10200 4350 50  0001 C CNN
+F 1 "GND" H 10205 4427 50  0000 C CNN
+F 2 "" H 10200 4600 50  0001 C CNN
+F 3 "" H 10200 4600 50  0001 C CNN
+	1    10200 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J1
+U 1 1 61706996
+P 10400 4600
+F 0 "J1" H 10428 4626 50  0000 L CNN
+F 1 "Conn_01x01_Female" H 10428 4535 50  0000 L CNN
+F 2 "Keebio:SinglePad" H 10400 4600 50  0001 C CNN
+F 3 "~" H 10400 4600 50  0001 C CNN
+	1    10400 4600
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

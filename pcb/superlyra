@@ -1,0 +1,234 @@
+Source,C:\Users\domanic\OneDrive\Documents\GitHub\SuperLyra\pcb\superlyra.sch
+Kicad Rev,Eeschema (5.1.10)-1
+Generated Date,18/09/2021 10:48:13
+
+Title,SuperLyra
+Company,Black Cat Plasticworks - (Malevolti)
+Revision,0.5
+Date Issue,2021-09-12
+
+Reference,Value,LCSC,Manufacturer,Mfg pt #,Library,Library Ref
+SW1,SW_Push,Switch,SW_Push
+SW2,SW_Push,Switch,SW_Push
+D90,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D89,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D88,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D87,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D86,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D85,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D84,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D83,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D82,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D81,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D80,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D79,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D78,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D77,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D76,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D75,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D74,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D73,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D72,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D71,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D70,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D69,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D68,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D67,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D66,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D65,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D64,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D63,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D62,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D61,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D60,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D59,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D58,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D57,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D56,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D55,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D54,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D53,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D52,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D51,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D50,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D49,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D48,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D47,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D46,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D45,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D44,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D43,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D42,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D41,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D40,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D39,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D38,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D37,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D36,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D35,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D34,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D33,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D32,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D31,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D30,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D29,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D28,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D27,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D26,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D25,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D24,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D23,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D22,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D21,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D20,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D19,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D18,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D17,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D16,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D15,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D14,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D13,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D12,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D11,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D10,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D9,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D8,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D7,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D6,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+SW90,SW_Push,Switch,SW_Push
+SW89,SW_Push,Switch,SW_Push
+SW88,SW_Push,Switch,SW_Push
+SW87,SW_Push,Switch,SW_Push
+SW86,SW_Push,Switch,SW_Push
+SW85,SW_Push,Switch,SW_Push
+SW84,SW_Push,Switch,SW_Push
+SW83,SW_Push,Switch,SW_Push
+SW82,SW_Push,Switch,SW_Push
+SW81,SW_Push,Switch,SW_Push
+SW80,SW_Push,Switch,SW_Push
+SW79,SW_Push,Switch,SW_Push
+SW78,SW_Push,Switch,SW_Push
+SW77,SW_Push,Switch,SW_Push
+SW76,SW_Push,Switch,SW_Push
+SW75,SW_Push,Switch,SW_Push
+SW74,SW_Push,Switch,SW_Push
+SW73,SW_Push,Switch,SW_Push
+SW72,SW_Push,Switch,SW_Push
+SW71,SW_Push,Switch,SW_Push
+SW70,SW_Push,Switch,SW_Push
+SW69,SW_Push,Switch,SW_Push
+SW68,SW_Push,Switch,SW_Push
+SW67,SW_Push,Switch,SW_Push
+SW66,SW_Push,Switch,SW_Push
+SW65,SW_Push,Switch,SW_Push
+SW64,SW_Push,Switch,SW_Push
+SW63,SW_Push,Switch,SW_Push
+SW62,SW_Push,Switch,SW_Push
+SW61,SW_Push,Switch,SW_Push
+SW60,SW_Push,Switch,SW_Push
+SW59,SW_Push,Switch,SW_Push
+SW58,SW_Push,Switch,SW_Push
+SW57,SW_Push,Switch,SW_Push
+SW56,SW_Push,Switch,SW_Push
+SW55,SW_Push,Switch,SW_Push
+SW54,SW_Push,Switch,SW_Push
+SW53,SW_Push,Switch,SW_Push
+SW52,SW_Push,Switch,SW_Push
+SW51,SW_Push,Switch,SW_Push
+SW50,SW_Push,Switch,SW_Push
+SW49,SW_Push,Switch,SW_Push
+SW48,SW_Push,Switch,SW_Push
+SW47,SW_Push,Switch,SW_Push
+SW46,SW_Push,Switch,SW_Push
+SW45,SW_Push,Switch,SW_Push
+SW44,SW_Push,Switch,SW_Push
+SW43,SW_Push,Switch,SW_Push
+SW42,SW_Push,Switch,SW_Push
+SW41,SW_Push,Switch,SW_Push
+SW40,SW_Push,Switch,SW_Push
+SW39,SW_Push,Switch,SW_Push
+SW38,SW_Push,Switch,SW_Push
+SW37,SW_Push,Switch,SW_Push
+SW36,SW_Push,Switch,SW_Push
+SW35,SW_Push,Switch,SW_Push
+SW34,SW_Push,Switch,SW_Push
+SW33,SW_Push,Switch,SW_Push
+SW32,SW_Push,Switch,SW_Push
+SW31,SW_Push,Switch,SW_Push
+SW30,SW_Push,Switch,SW_Push
+SW29,SW_Push,Switch,SW_Push
+SW28,SW_Push,Switch,SW_Push
+SW27,SW_Push,Switch,SW_Push
+SW26,SW_Push,Switch,SW_Push
+SW25,SW_Push,Switch,SW_Push
+SW24,SW_Push,Switch,SW_Push
+SW23,SW_Push,Switch,SW_Push
+SW22,SW_Push,Switch,SW_Push
+SW21,SW_Push,Switch,SW_Push
+SW20,SW_Push,Switch,SW_Push
+SW19,SW_Push,Switch,SW_Push
+SW18,SW_Push,Switch,SW_Push
+SW17,SW_Push,Switch,SW_Push
+SW16,SW_Push,Switch,SW_Push
+SW15,SW_Push,Switch,SW_Push
+SW14,SW_Push,Switch,SW_Push
+SW13,SW_Push,Switch,SW_Push
+SW12,SW_Push,Switch,SW_Push
+SW11,SW_Push,Switch,SW_Push
+SW10,SW_Push,Switch,SW_Push
+SW9,SW_Push,Switch,SW_Push
+SW8,SW_Push,Switch,SW_Push
+SW7,SW_Push,Switch,SW_Push
+SW6,SW_Push,Switch,SW_Push
+SW5,SW_Push,Switch,SW_Push
+SW4,SW_Push,Switch,SW_Push
+SW3,SW_Push,Switch,SW_Push
+J2,AVR-ISP-6,Connector,AVR-ISP-6
+R4,10k,C60489,YAGEO,RC0402JR-0710KL,Device,R
+R3,10k,C60489,YAGEO,RC0402JR-0710KL,Device,R
+U2,SRV05-4,C558418,TECH PUBLIC,SRV05-4,Power_Protection,SRV05-4
+C2,0.1u,C106204,YAGEO,CC0402KRX5R7BB104,Device,C_Small
+C5,10u,C237279,Murata Electronics,GRM155C80J106ME11D,Device,C_Small
+C4,0.1u,C106204,YAGEO,CC0402KRX5R7BB104,Device,C_Small
+C3,0.1u,C106204,YAGEO,CC0402KRX5R7BB104,Device,C_Small
+R2,22,C93929,YAGEO,RC0402JR-0722RL,Device,R
+C1,1u,C106253,YAGEO,CC0402KRX5R5BB105,Device,C_Small
+R1,22,C93929,YAGEO,RC0402JR-0722RL,Device,R
+R6,5.1k,C25905,UNI-ROYAL,0402WGF5101TCE,Device,R
+R5,5.1k,C25905,UNI-ROYAL,0402WGF5101TCE,Device,R
+F1,Polyfuse_Small,C914085,BHFUSE,BSMD0402L-020,Device,Polyfuse_Small
+J1,USB_C_Receptacle_USB2.0,C165948,Korean Hroparts Elec,TYPE-C-31-M-12,Connector,USB_C_Receptacle_USB2.0
+Y1,16mhz,C341521,Murata Electronics,CSTNE16M0V530000R0,Device,Resonator
+U1,ATmega32U4-MU,C112161,Microchip Tech,ATMEGA32U4-MU,MCU_Microchip_ATmega,ATmega32U4-MU
+SWRST1,SW_Push,C318884,XKB Connectivity,TS-1187A-B-A-B,Switch,SW_Push
+D1,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D2,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D3,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D4,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+D5,D_Small_ALT,C2099,Changjiang Electronics Tech,1N4148W,Device,D_Small_ALT
+H7,MountingHole,Mechanical,MountingHole
+H1,MountingHole,Mechanical,MountingHole
+H6,MountingHole,Mechanical,MountingHole
+H5,MountingHole,Mechanical,MountingHole
+H4,MountingHole,Mechanical,MountingHole
+H3,MountingHole,Mechanical,MountingHole
+H2,MountingHole,Mechanical,MountingHole
+H8,MountingHole,Mechanical,MountingHole
+H15,MountingHole,Mechanical,MountingHole
+H9,MountingHole,Mechanical,MountingHole
+H14,MountingHole,Mechanical,MountingHole
+H13,MountingHole,Mechanical,MountingHole
+H12,MountingHole,Mechanical,MountingHole
+H11,MountingHole,Mechanical,MountingHole
+H10,MountingHole,Mechanical,MountingHole
+H16,MountingHole,Mechanical,MountingHole
+H23,MountingHole,Mechanical,MountingHole
+H17,MountingHole,Mechanical,MountingHole
+H22,MountingHole,Mechanical,MountingHole
+H21,MountingHole,Mechanical,MountingHole
+H20,MountingHole,Mechanical,MountingHole
+H19,MountingHole,Mechanical,MountingHole
+H18,MountingHole,Mechanical,MountingHole
+H24,MountingHole,Mechanical,MountingHole
+H25,Logo,Mechanical,MountingHole
+C6,0.1u,C106204,YAGEO,CC0402KRX5R7BB104,Device,C_Small
