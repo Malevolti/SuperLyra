@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\domanic\OneDrive\Documents\GitHub\SuperLyra\pcb\hotswap\superlyra-hs-plate.sch)
-    (date "09/10/2021 15:07:13")
+    (date "09/10/2021 18:27:27")
     (tool "Eeschema (5.1.10)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

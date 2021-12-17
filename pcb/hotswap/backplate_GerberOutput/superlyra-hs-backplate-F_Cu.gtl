@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.10)-1*
-G04 #@! TF.CreationDate,2021-10-09T15:29:01+01:00*
+G04 #@! TF.CreationDate,2021-10-09T22:27:19+01:00*
 G04 #@! TF.ProjectId,superlyra-hs-backplate,73757065-726c-4797-9261-2d68732d6261,0.1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.10)-1) date 2021-10-09 15:29:01*
+G04 Created by KiCad (PCBNEW (5.1.10)-1) date 2021-10-09 22:27:19*
 %MOMM*%
 %LPD*%
 G01*
@@ -17,11 +17,14 @@ G04 #@! TD*
 G04 #@! TA.AperFunction,ComponentPad*
 %ADD11C,3.500000*%
 G04 #@! TD*
-G04 #@! TA.AperFunction,Conductor*
-%ADD12C,0.254000*%
+G04 #@! TA.AperFunction,ViaPad*
+%ADD12C,0.800000*%
 G04 #@! TD*
 G04 #@! TA.AperFunction,Conductor*
-%ADD13C,0.100000*%
+%ADD13C,0.254000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
+%ADD14C,0.100000*%
 G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
@@ -79,6 +82,10 @@ G04 #@! TO.N,N/C*
 X377698000Y-59817000D03*
 G04 #@! TD*
 D12*
+G04 #@! TO.N,GND*
+X213995000Y-185293000D03*
+G04 #@! TD*
+D13*
 G04 #@! TO.N,GND*
 X43368474Y-57104132D02*
 X44029161Y-57230165D01*
@@ -604,7 +611,7 @@ X41856144Y-57198763D01*
 X42605173Y-57084145D01*
 X43368474Y-57104132D01*
 G04 #@! TA.AperFunction,Conductor*
-D13*
+D14*
 G36*
 X43368474Y-57104132D02*
 G01*
